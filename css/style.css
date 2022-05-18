@@ -1,0 +1,34 @@
+body {
+    background-color: #087752;
+    height: 100%;
+}
+
+.center {
+    margin: auto;
+    margin-top: 200px;
+}
+
+#header {
+    font-family: 'Changa', sans-serif;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'Changa', sans-serif;
+}
+
+.book-list {
+    margin-top: 50px;
+    visibility: hidden;
+}
+
+.card-img {
+    height: 192px;
+    width: 128px;
+}
+
+#description {
+    height: 200px;
+    overflow: hidden;
+    white-space: wrap;
+}
